@@ -39,6 +39,19 @@
 
 数字や体験は、渡した素材にあるものしか使いません。
 
+## いちばん簡単な使い方
+
+GitHubのURLをコピーして、Claudeに送るだけでも使えます。
+
+```
+https://github.com/ecsamurai/x-skills-ja
+このURLにあるx-post-writer-jaとx-humanizer-jaを使って、X投稿を書いて。
+```
+
+決まった時間に投稿させたいときは、Claude Codeに「これをスケジュールに組み込んで」と頼みます。
+
+投稿のやり方は、ブラウザ操作でも、Claudeのデスクトップアプリからでもかまいません。
+
 ## 入れ方
 
 ### Claude（claude.ai・デスクトップアプリ）
